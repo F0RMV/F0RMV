@@ -1,6 +1,5 @@
 <h1 align="left">Hi there, I'm Dmitri!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-Data Analyst
 <!--
 **F0RMV/F0RMV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
